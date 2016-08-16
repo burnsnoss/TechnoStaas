@@ -1,0 +1,16 @@
+body {
+  margin: 0 auto;
+}
+
+#page {
+  height: 666px;
+  min-height: 100%;
+  width: 100%;
+  z-index: 2;
+  position: absolute;
+}
+
+#yt {
+  position: absolute;
+  z-index: 1;
+}
